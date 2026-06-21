@@ -20,6 +20,9 @@
         <a href="#" class="btn btn-primary">
             delete
         </a>
+        <a href="#" class="btn btn-success">
+            New
+        </a>
 
     </div>
 
