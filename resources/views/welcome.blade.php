@@ -17,6 +17,9 @@
         <a href="#" class="btn btn-primary">
             Get Started
         </a>
+        <a href="#" class="btn btn-danger">
+            delete
+        </a>
 
     </div>
 
