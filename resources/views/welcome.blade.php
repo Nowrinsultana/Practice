@@ -14,7 +14,7 @@
             Smart Employment Management System
         </p>
 
-        <a href="#" class="btn btn-primary">
+        <a href="#" class="btn btn-danger">
             Get Started
         </a>
         <a href="#" class="btn btn-primary">
