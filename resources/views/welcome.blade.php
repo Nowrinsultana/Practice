@@ -33,6 +33,7 @@
             Ajrin karim
         <a href="#" class="btn btn-secondary">
             nitu
+        </a> 
         <a href="#" class="btn btn-success">
             Noironjona
         </a>
@@ -41,6 +42,10 @@
         <a href="#" class="btn btn-danger">
             Noironjona
         </a>
+        <a href="#" class="btn btn-warning">
+            Abida
+        </a>
+
 
     </div>
 
