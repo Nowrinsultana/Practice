@@ -29,9 +29,16 @@
         <a href="#" class="btn btn-secondary">
             Ajrin
         </a>
+        <a href="#" class="btn btn-success">
+            Ajrin karim
         <a href="#" class="btn btn-secondary">
             nitu
         <a href="#" class="btn btn-success">
+            Noironjona
+        </a>
+              <a href="#" class="btn btn-success">
+            Nitu Boss
+        <a href="#" class="btn btn-danger">
             Noironjona
         </a>
 
